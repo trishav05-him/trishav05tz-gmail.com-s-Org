@@ -1,0 +1,6 @@
+{
+  "name": "Academic Workspace (Phase 1)",
+  "description": "An intelligent academic platform for secondary school students connecting workload, learning resources, and genuine topic understanding.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
